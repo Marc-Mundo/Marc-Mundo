@@ -1,5 +1,5 @@
 ## Hi there 👋
-This is Marc. I am an MSc graduate in Neurobiology from Radboud University Nijmegen, currently looking for a job in Tech.
+This is Marc. I am an MSc graduate in Neurobiology from Radboud University Nijmegen.
 
 Here are some things I have worked on during my studies:
 
